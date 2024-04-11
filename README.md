@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+# Artemii Rodkevich
+
+## 👨🏻‍💻 About me
+
+- 🙍‍♂️ Man
+- 👦🏻 16 years old
+- 🇷🇺 Russia
+- 🌃 Moscow
+- 🎓 High School
+
+## ⏳ Me now
+
+- 🌱 I’m currently learning Rust
+- 🧪 I’m experemnting with Github Actions.
+
 <!--
 **linuxfight/linuxfight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
