@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Artemiy Rodkevich
+# Artemii Rodkevich
 
 ## 👨🏻‍💻 About me
 
