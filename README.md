@@ -2,6 +2,8 @@
 
 # Artemii Rodkevich
 
+## My personal website: https://linuxfight.me
+
 ## 👨🏻‍💻 About me
 
 - 🙍‍♂️ Man
