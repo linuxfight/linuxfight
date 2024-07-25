@@ -12,10 +12,19 @@
 - 🌃 Moscow
 - 🎓 High School
 
-## ⏳ Me now
+## 💻 Stack
 
-- 🌱 I’m currently learning Rust
-- 🧪 I’m experemnting with Github Actions.
+- C# (ASP.NET, Entity Framework, Telegram.Bot, TDLib)
+- Go (Fiber, Gorm, Gotd)
+- Rust (Teloxide)
+- TypeScript (simple openapi clients)
+- VueJS (Router, Pinia, Vuetify)
+
+## 💿 Also using
+
+- Linux (Arch, Fedora, Debian/Ubuntu)
+- Docker (compose)
+- GitHub (actions)
 
 <!--
 **linuxfight/linuxfight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
