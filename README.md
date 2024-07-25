@@ -8,7 +8,7 @@
 
 - 🙍‍♂️ Man
 - 👦🏻 16 years old
-- 🇷🇺 Russia
+- 🇷🇺 Russian
 - 🌃 Moscow
 - 🎓 High School
 
