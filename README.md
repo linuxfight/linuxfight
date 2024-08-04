@@ -1,30 +1,20 @@
-### Hi there 👋
+# Hi there 👋
 
-# Artemii Rodkevich
+### I'm a junior backend developer.
 
-## My personal website: https://linuxfight.me
+### More on [my website](https://linuxfight.me)! 💾
 
-## 👨🏻‍💻 About me
-
-- 🙍‍♂️ Man
-- 👦🏻 16 years old
-- 🇷🇺 Russian
-- 🌃 Moscow
-- 🎓 High School
-
-## 💻 Stack
+## Stack 💻
 
 - C# (ASP.NET, Entity Framework, Telegram.Bot, TDLib)
 - Go (Fiber, Gorm, Gotd)
 - Rust (Teloxide)
+- Python (poetry, aiogram, httpx/aiohttp, tortoise orm, yt-dlp)
 - TypeScript (simple openapi clients)
 - VueJS (Router, Pinia, Vuetify)
-
-## 💿 Also using
-
-- Linux (Arch, Fedora, Debian/Ubuntu)
-- Docker (compose)
-- GitHub (actions)
+- Linux (Arch, Fedora, Debian/Ubuntu) + Caddy
+- Docker + Compose
+- GitHub Actions
 
 <!--
 **linuxfight/linuxfight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
