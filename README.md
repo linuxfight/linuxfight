@@ -12,7 +12,7 @@
 - Python (poetry, aiogram, httpx/aiohttp, tortoise orm, yt-dlp)
 - TypeScript (simple openapi clients)
 - VueJS (Router, Pinia, Vuetify)
-- Linux (Arch, Fedora, Debian/Ubuntu) + Caddy
+- Linux (Arch, Fedora, Debian/Ubuntu) + Caddy/Traefik
 - Docker + Compose
 - GitHub Actions
 
