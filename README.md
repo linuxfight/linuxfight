@@ -7,7 +7,7 @@
 ## Stack 💻
 
 - C# (ASP.NET, Entity Framework, Telegram.Bot, TDLib)
-- Go (Fiber, Gorm)
+- Go (Fiber, Gorm, telebot)
 - TypeScript (simple openapi clients)
 - VueJS (Router, Pinia, Vuetify)
 - Linux (Arch, Fedora, Debian/Ubuntu) + Caddy/Traefik + Docker (Compose)
