@@ -6,7 +6,7 @@
 
 ## Stack 💻
 
-- C# (ASP.NET, Entity Framework, Telegram.Bot, TDLib)
+- C# (ASP.NET, Entity Framework, Telegram.Bot, TDLib, Discord.NET)
 - Go (Fiber, Gorm, telebot)
 - TypeScript (simple openapi clients)
 - VueJS (Router, Pinia, Vuetify)
