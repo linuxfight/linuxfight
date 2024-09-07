@@ -7,13 +7,10 @@
 ## Stack 💻
 
 - C# (ASP.NET, Entity Framework, Telegram.Bot, TDLib)
-- Go (Fiber, Gorm, Gotd)
-- Rust (Teloxide)
-- Python (poetry, aiogram, httpx/aiohttp, tortoise orm, yt-dlp)
+- Go (Fiber, Gorm)
 - TypeScript (simple openapi clients)
 - VueJS (Router, Pinia, Vuetify)
-- Linux (Arch, Fedora, Debian/Ubuntu) + Caddy/Traefik
-- Docker + Compose
+- Linux (Arch, Fedora, Debian/Ubuntu) + Caddy/Traefik + Docker (Compose)
 - GitHub Actions
 
 <!--
