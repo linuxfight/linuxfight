@@ -10,8 +10,6 @@
 - Go (Fiber, Gorm, telebot)
 - TypeScript (simple openapi clients)
 - VueJS (Router, Pinia, Vuetify)
-- Linux (Arch, Fedora, Debian/Ubuntu) + Caddy/Traefik + Docker (Compose)
-- GitHub Actions
 
 <!--
 **linuxfight/linuxfight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
