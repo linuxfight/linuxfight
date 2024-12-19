@@ -9,7 +9,6 @@
 - C# (ASP.NET, Entity Framework, Telegram.Bot, TDLib, Discord.NET)
 - Go (Fiber, Gorm, telebot)
 - TypeScript (simple openapi clients)
-- VueJS (Router, Pinia, Vuetify)
 
 <!--
 **linuxfight/linuxfight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
