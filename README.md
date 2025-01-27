@@ -3,7 +3,7 @@
 <p>I'm a junior backend developer.</p>
 <p>Finalist in <a href="https://prodcontest.ru">PROD 2024</a>.</p>
 <p>Contestant in <a href="https://cs.hse.ru/se/2024/">Summer School of Software Engineering at HSE 2024</a>.</p>
-<p><a href="https://lyceum.yandex.ru/">Yandex Lyceum</a> Go student</p>
+<p><a href="https://lyceum.yandex.ru/">Yandex Lyceum</a> Go student.</p>
 <p>Worked on backend for <a href="https://t.me/middle_app">Middle</a>.</p>
 
 ### Stack 💻
