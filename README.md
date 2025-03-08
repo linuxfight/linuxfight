@@ -10,7 +10,7 @@
 
 - C# (ASP.NET, Entity Framework, Telegram.Bot, TDLib, Discord.NET)
 - Go (Fiber, Gorm, telebot)
-- TypeScript (simple openapi clients)
+- TypeScript (Deno)
 - VueJS (Nuxt, SPA)
 
 <!--
