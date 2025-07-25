@@ -14,6 +14,7 @@
 - TypeScript (Deno, Bun, Node)
 - VueJS (Nuxt, SPA)
 - React (Next)
+- DevOps skills (Nginx/Caddy/Traefik, GitLab/GitHub CI, watchtower/argocd, shell scripting)
 
 <!--
 **linuxfight/linuxfight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
