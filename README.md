@@ -10,10 +10,7 @@
 ### Stack 💻
 
 - C# (ASP.NET, Entity Framework, Telegram.Bot, TDLib, Discord.NET)
-- Go (Fiber, Echo, Gorm, telebot, gotd, sqlc)
-- TypeScript (Deno, Bun, Node)
-- VueJS (Nuxt, SPA)
-- React (Next)
+- Go (Echo, Pgx, telebot, gotd, sqlc)
 - DevOps skills (Nginx/Caddy/Traefik, GitLab/GitHub CI, watchtower/argocd, shell scripting)
 
 <!--
